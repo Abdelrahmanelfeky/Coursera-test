@@ -34,15 +34,17 @@ h1{
 		font-family: cursive,Helvetica ,serif;
 		margin-top: 20px ;
 		margin-bottom: 20px;
-		height: 700px;
-		border:7px solid white;
+		height: 900px;
+		position :relative;
+		 border: 2px solid #3F0C1F;
+		
 	}
 	.row p{
-		padding: 5px 10px 5px 10px;
+		padding: 15px;
 		font-size: 1.2em;
 	}
 	h3{
-		margin-top: 10px;
+		margin-bottom: 12px;
 	}
 	.row a{
 		position: absolute;
