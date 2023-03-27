@@ -4,6 +4,31 @@ h1{
 	 font-family: cursive,Helvetica ,serif;
 
 	}
+	.navbar {
+	border-radius: 0;
+	background-color:blue;
+}
+
+.navbar-brand{
+  font-size: 35px;
+  color: white;
+}
+
+.navbar-inverse .navbar-toggle {
+    border-color: white;
+    background-color:#337ab7;
+}
+.navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover {
+    background-color: #98019b;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+    border: 2px solid black;
+}
+
+.navbar-brand:hover{
+	color: white;
+}
 	 #chicken,#Beef,#Sushi{
 		background-color: #FAEBD7;
 		font-family: cursive,Helvetica ,serif;
